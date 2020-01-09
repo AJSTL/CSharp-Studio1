@@ -1,0 +1,11 @@
+C:\LaunchCode\Area\Area\bin\Debug\netcoreapp3.1\Area.exe
+C:\LaunchCode\Area\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+C:\LaunchCode\Area\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.json
+C:\LaunchCode\Area\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.dev.json
+C:\LaunchCode\Area\Area\bin\Debug\netcoreapp3.1\Area.dll
+C:\LaunchCode\Area\Area\bin\Debug\netcoreapp3.1\Area.pdb
+C:\LaunchCode\Area\Area\obj\Debug\netcoreapp3.1\Area.csprojAssemblyReference.cache
+C:\LaunchCode\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+C:\LaunchCode\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+C:\LaunchCode\Area\Area\obj\Debug\netcoreapp3.1\Area.dll
+C:\LaunchCode\Area\Area\obj\Debug\netcoreapp3.1\Area.pdb
